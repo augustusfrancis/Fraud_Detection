@@ -2,6 +2,7 @@
 
 This project builds a **fraud detection system for bank transactions** using a **Logistic Regression** machine learning model.  
 It follows a complete end-to-end ML workflow — from **Exploratory Data Analysis (EDA)** to **model deployment as a web application using Streamlit**.
+The built here is performed at approximate 94% accuracy.
 
 In this project:
 - Exploratory Data Analysis (EDA) is performed to understand data distributions, patterns, and class imbalance.
