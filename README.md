@@ -61,6 +61,6 @@ The app loads the trained model using `joblib` and performs real-time prediction
 
 ---
 
-## Data set used 
+## Dataset used 
 
 https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset?resource=download
